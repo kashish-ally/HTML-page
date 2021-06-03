@@ -1,0 +1,11 @@
+table,th, td{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding: 5px 10px;
+  }
+  tr{
+    border: 1px;
+  }
+  .bg_blue{
+    background:rgba(63, 165, 191, 0.45);
+  }
